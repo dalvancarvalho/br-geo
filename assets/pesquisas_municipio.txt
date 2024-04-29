@@ -1,0 +1,126 @@
+PREFEITO(A)
+https://servicodados.ibge.gov.br/api/v1/pesquisas/indicadores/29170/resultados/4316808
+
+NOME DA MICRORREGIAO
+https://servicodados.ibge.gov.br/api/v1/pesquisas/indicadores/91251/resultados/4316808
+
+NOME DA MESORREGIAO
+https://servicodados.ibge.gov.br/api/v1/pesquisas/indicadores/91249/resultados/4316808
+
+HIERARQUIA URBANA
+https://servicodados.ibge.gov.br/api/v1/pesquisas/indicadores/87529/resultados/4316808
+
+BIOMA
+https://servicodados.ibge.gov.br/api/v1/pesquisas/indicadores/77861/resultados/4316808
+
+PERCENTUAL DE RECEITAS ORIUNDAS DE FONTES EXTERNAS
+https://servicodados.ibge.gov.br/api/v1/pesquisas/indicadores/60048/resultados/4316808
+
+TAXA DE ESCOLARIZAÇÃO DE 6 A 14 ANOS
+https://servicodados.ibge.gov.br/api/v1/pesquisas/indicadores/60045/resultados/4316808
+
+URBANIZAÇÃO DE VIAS PÚBLICAS
+https://servicodados.ibge.gov.br/api/v1/pesquisas/indicadores/60031/resultados/4316808
+
+ESGOTAMENTO SANITÁRIO ADEQUADO
+https://servicodados.ibge.gov.br/api/v1/pesquisas/indicadores/60030/resultados/4316808
+
+ARBORIZAÇÃO DE VIAS PÚBLICAS
+https://servicodados.ibge.gov.br/api/v1/pesquisas/indicadores/60029/resultados/4316808
+
+PIB PER CAPITA
+https://servicodados.ibge.gov.br/api/v1/pesquisas/indicadores/47001/resultados/4316808
+
+TAXA DE MORTALIDADE INFANTIL
+https://servicodados.ibge.gov.br/api/v1/pesquisas/indicadores/30279/resultados/4316808
+
+IDH MUNICIPAL
+https://servicodados.ibge.gov.br/api/v1/pesquisas/indicadores/30255/resultados/4316808
+
+SALÁRIO MÉDIO MENSAL DOS TRABALHADORES FORMAIS
+https://servicodados.ibge.gov.br/api/v1/pesquisas/indicadores/29765/resultados/4316808
+
+PESSOAL OCUPADO
+https://servicodados.ibge.gov.br/api/v1/pesquisas/indicadores/29763/resultados/4316808
+
+TOTAL DE DESPESAS EMPENHADAS
+https://servicodados.ibge.gov.br/api/v1/pesquisas/indicadores/29749/resultados/4316808
+
+POPULAÇÃO ESTIMADA
+https://servicodados.ibge.gov.br/api/v1/pesquisas/indicadores/29171/resultados/4316808
+
+DENSIDADE DEMOGRÁFICA
+https://servicodados.ibge.gov.br/api/v1/pesquisas/indicadores/29168/resultados/4316808
+
+ÁREA TERRITORIAL
+https://servicodados.ibge.gov.br/api/v1/pesquisas/indicadores/29167/resultados/4316808
+
+NÚMERO DE ESTABELECIMENTOS DO SUS
+https://servicodados.ibge.gov.br/api/v1/pesquisas/indicadores/28242/resultados/4316808
+
+TOTAL DE RECEITAS REALIZADAS
+https://servicodados.ibge.gov.br/api/v1/pesquisas/indicadores/28141/resultados/4316808
+
+POPULAÇÃO NO ÚLTIMO CENSO
+https://servicodados.ibge.gov.br/api/v1/pesquisas/indicadores/25207/resultados/4316808
+
+NÚMERO DE ESTABELECIMENTOS DE ENSINO MÉDIO
+https://servicodados.ibge.gov.br/api/v1/pesquisas/indicadores/5955/resultados/4316808
+
+NÚMERO DE ESTABELECIMENTOS DE ENSINO FUNDAMENTAL
+https://servicodados.ibge.gov.br/api/v1/pesquisas/indicadores/5950/resultados/4316808
+
+NÚMERO DE DOCENTES NO ENSINO MÉDIO
+https://servicodados.ibge.gov.br/api/v1/pesquisas/indicadores/5934/resultados/4316808
+
+NÚMERO DE DOCENTES NO ENSINO FUNDAMENTAL
+https://servicodados.ibge.gov.br/api/v1/pesquisas/indicadores/5929/resultados/4316808
+
+NÚMERO DE MATRÍCULAS NO ENSINO MÉDIO
+https://servicodados.ibge.gov.br/api/v1/pesquisas/indicadores/5913/resultados/4316808
+
+NÚMERO DE MATRÍCULAS NO ENSINO FUNDAMENTAL
+https://servicodados.ibge.gov.br/api/v1/pesquisas/indicadores/5908/resultados/4316808
+
+NÚMERO DE MATRÍCULAS NA PRÉ-ESCOLA
+https://servicodados.ibge.gov.br/api/v1/pesquisas/indicadores/5903/resultados/4316808
+
+ANIVERSARIO MUNICIPIO
+https://servicodados.ibge.gov.br/api/v1/localidades/aniversarios/
+
+==========================================
+
+HISTÓRICO
+https://servicodados.ibge.gov.br/api/v1/biblioteca?aspas=3&codmun=4316808
+
+
+5903|5908|5913|5929|5934|5950|5955|25207|28141|28242|29749|29763|29765|30255|30279
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,112 @@
+1. PAÍS
+
+
+  1.1 PESQUISA/CENSO PARA TODOS OS ANOS [GRÁFICO DE LINHA]
+
+    1.1.1 Estimativa populacional [60056]
+
+    1.1.2 Mortalidade infantil [60282]
+
+    1.1.3 Domicílios com acesso à Internet [64517]
+
+    1.1.4 PIB per capita [77003]
+
+
+  1.2 PESQUISA/CENSO PARA O ANO MAIS RECENTE [VALORES INDIVIDUAIS, DIRETO NA TELA]
+
+    1.2.1 Compilado de pesquisas (geografia, infraestrutura, saúde, educação e economia)
+          https://servicodados.ibge.gov.br/api/v1/pesquisas/indicadores/5908|5913|5929|5934|5950|5955|60052|60053|60055|60056|60280|60282|60284|60404|60414|62887|62912|62914|62916|63306|63311|64508|64510|64511|64517|77003|78187|78192/resultados/0
+
+    1.2.2 Municípios aniversariantes
+          https://servicodados.ibge.gov.br/api/v1/localidades/aniversarios/?diade=dia&mesde=mes&diaate=dia&mesate=mes
+
+
+  1.3 PESQUISA/CENSO PARA O ANO MAIS RECENTE [GRÁFICO DE BARRA (top 10) | MAPA COROPLÉTICO (todos)]
+
+    1.3.1 Estimativa populacional
+          https://servicodados.ibge.gov.br/api/v1/pesquisas/indicadores/48985/resultados/xx
+
+    1.3.2 Mortalidade infantil
+          https://servicodados.ibge.gov.br/api/v1/pesquisas/indicadores/30279/resultados/xx
+
+    1.3.3 IDH
+          https://servicodados.ibge.gov.br/api/v1/pesquisas/indicadores/30255/resultados/xx
+
+    1.3.4 Escolarização de 6 a 14 anos
+          https://servicodados.ibge.gov.br/api/v1/pesquisas/indicadores/63306/resultados/xx
+
+    1.3.5 Analfabetismo (15 anos ou mais de idade)
+          https://servicodados.ibge.gov.br/api/v1/pesquisas/indicadores/63311/resultados/xx
+
+
+===============================================================================================
+
+2. ESTADO
+
+
+  2.1 PESQUISA/CENSO PARA TODOS OS ANOS [GRÁFICO DE LINHA]
+
+    2.1.1 Estimativa populacional [48985]
+
+    2.1.2 População projetada [49645]
+
+    2.1.3 IDH [30255]
+
+    2.1.4 Rendimento nominal mensal per capita [48986]
+
+
+  2.2 PESQUISA/CENSO PARA O ANO MAIS RECENTE [VALORES INDIVIDUAIS, DIRETO NA TELA]
+
+    2.2.1 Compilado de pesquisas (geografia, infraestrutura, saúde, educação e economia)
+          https://servicodados.ibge.gov.br/api/v1/pesquisas/indicadores/5903|5908|5913|5929|5934|5950|5955|25191|25199|25207|28120|28122|28123|28128|28130|28141|29749|30255|48980|48981|48982|48985|48986|49645|62590|62876|78187|78192/resultados/placeholder
+
+    2.2.2 Gentílico
+          https://servicodados.ibge.gov.br/api/v1/biblioteca?aspas=3&coduf=placeholder
+
+
+  2.3 PESQUISA/CENSO PARA O ANO MAIS RECENTE [GRÁFICO DE BARRA (top 10) | MAPA COROPLÉTICO (todos)]
+
+    2.3.1 Estimativa populacional
+          https://servicodados.ibge.gov.br/api/v1/pesquisas/indicadores/29171/resultados/43xxxx
+
+    2.3.2 Mortalidade Infantil
+          https://servicodados.ibge.gov.br/api/v1/pesquisas/indicadores/30279/resultados/43xxxx
+
+    2.3.3 IDH
+          https://servicodados.ibge.gov.br/api/v1/pesquisas/indicadores/30255/resultados/43xxxx
+
+    2.3.4 PIB per capita
+          https://servicodados.ibge.gov.br/api/v1/pesquisas/indicadores/47001/resultados/43xxxx
+
+    2.3.5 Salário médio mensal dos trabalhadores formais
+          https://servicodados.ibge.gov.br/api/v1/pesquisas/indicadores/29765/resultados/43xxxx
+
+
+===============================================================================================
+
+3. MUNICÍPIO
+
+
+  3.1 PESQUISA/CENSO PARA TODOS OS ANOS [GRÁFICO DE LINHA]
+
+    3.1.1 Estimativa populacional [29171]
+
+    3.1.2 IDH [30255]
+
+    3.1.3 PIB per capita [47001]
+
+
+  3.2 PESQUISA/CENSO PARA O ANO MAIS RECENTE [VALORES INDIVIDUAIS, DIRETO NA TELA]
+
+    3.2.1 Compilado de pesquisas (geografia, infraestrutura, saúde, educação e economia)
+          https://servicodados.ibge.gov.br/api/v1/pesquisas/indicadores/5903|5908|5913|5929|5934|5950|5955|25207|28141|28242|29167|29168|29170|29171|29749|29763|29765|30255|30279|47001|60029|60030|60031|60045|60048|77861|87529|91249|91251/resultados/placeholder
+
+    3.2.2 Aniversário do município
+          https://servicodados.ibge.gov.br/api/v1/localidades/aniversarios/
+
+    3.2.3 Informações adicionais (gentílico e história)
+          https://servicodados.ibge.gov.br/api/v1/biblioteca?aspas=3&codmun=placeholder
+
+    3.2.4 Metadados (para obtenção de informações meteorológicas)
+          https://servicodados.ibge.gov.br/api/v3/malhas/municipios/placeholder/metadados
+ 

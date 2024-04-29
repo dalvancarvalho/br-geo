@@ -1,0 +1,11 @@
+PIB PER CAPITA
+https://servicodados.ibge.gov.br/api/v1/pesquisas/indicadores/47001/resultados/43xxxx
+
+MORTALIDADE INFANTIL
+https://servicodados.ibge.gov.br/api/v1/pesquisas/indicadores/30279/resultados/43xxxx
+
+ESCOLARIZAÇÃO 6 A 14 ANOS
+https://servicodados.ibge.gov.br/api/v1/pesquisas/indicadores/60045/resultados/43xxxx
+
+SALÁRIO MÉDIO MENSAL DOS TRABALHADORES FORMAIS
+https://servicodados.ibge.gov.br/api/v1/pesquisas/indicadores/29765/resultados/43xxxx

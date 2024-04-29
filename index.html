@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Urbanist:wght@100;200;400;600;800&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="./style.css" />
+
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@3.7.1/dist/chart.min.js" defer></script>
+    <script type="module" src="./js/main.js"></script>
+
+    <title>BR Geo</title>
+  </head>
+
+  <!-- prettier-ignore -->
+  <body>
+
+    <!-- Header -->
+    <header>
+      <nav><h1 class="logo">BR Geo</h1></nav>
+    </header>
+
+    <!-- Content -->
+    <section class="content">
+      
+      <div class="upper-content">
+
+        <section class="lists">
+          <h1 id="country-button" class="country">Brasil</h1>
+          <div id="lists-root" class="list__root"></div>
+        </section>
+
+        <section class="widgets">
+          <div id="widgets-loader" class="loader"></div>
+          <div id="widgets-root" class="widgets__root"></div>
+        </section>
+        
+      </div>
+
+      <main class="main-content">
+
+        <section class="map">
+          <div id="map-loader" class="loader"></div>
+          <div id="map-root" class="map__root"></div>
+        </section>
+
+        <section class="info">
+          <div id="info-loader" class="loader"></div>
+          <div id="info-root" class="info__root"></div>
+        </section>
+        
+      </main>
+
+    </section>
+  </body>
+</html>
